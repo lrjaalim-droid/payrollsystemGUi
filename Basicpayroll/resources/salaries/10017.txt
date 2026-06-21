@@ -1,0 +1,16 @@
+Employee #: 10017
+Last Name: De Leon
+First Name: Selena
+
+Payroll Month: JUNE
+Total Days Worked: 30
+Daily Rate: Php 1992.88
+Total Salary: Php 59786.40
+
+Deductions:
+SSS (3.63%): Php 2170.25
+Pag-IBIG (2.00%): Php 1195.73
+PhilHealth (3.50%): Php 2092.52
+
+Total Deductions: Php 5458.50
+Net Salary: Php 54327.90

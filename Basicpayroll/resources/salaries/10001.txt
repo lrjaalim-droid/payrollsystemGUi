@@ -1,0 +1,16 @@
+Employee #: 10001
+Last Name: Garcia
+First Name: Manuel III
+
+Payroll Month: MAY
+Total Days Worked: 31
+Daily Rate: Php 695.00
+Total Salary: Php 21545.00
+
+Deductions:
+SSS (3.63%): Php 782.08
+Pag-IBIG (2.00%): Php 430.90
+PhilHealth (3.50%): Php 754.08
+
+Total Deductions: Php 1967.06
+Net Salary: Php 19577.94

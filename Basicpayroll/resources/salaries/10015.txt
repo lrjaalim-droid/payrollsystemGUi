@@ -1,0 +1,16 @@
+Employee #: 10015
+Last Name: Romualdez
+First Name: Fredrick
+
+Payroll Month: JUNE
+Total Days Worked: 30
+Daily Rate: Php 2547.60
+Total Salary: Php 76428.00
+
+Deductions:
+SSS (3.63%): Php 2774.34
+Pag-IBIG (2.00%): Php 1528.56
+PhilHealth (3.50%): Php 2674.98
+
+Total Deductions: Php 6977.88
+Net Salary: Php 69450.12

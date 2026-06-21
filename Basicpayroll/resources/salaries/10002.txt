@@ -1,0 +1,16 @@
+Employee #: 10002
+Last Name: Lim
+First Name: Antonio
+
+Payroll Month: JUNE
+Total Days Worked: 30
+Daily Rate: Php 695.00
+Total Salary: Php 20850.00
+
+Deductions:
+SSS (3.63%): Php 756.86
+Pag-IBIG (2.00%): Php 417.00
+PhilHealth (3.50%): Php 729.75
+
+Total Deductions: Php 1903.61
+Net Salary: Php 18946.40
